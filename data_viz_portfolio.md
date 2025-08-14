@@ -64,13 +64,9 @@ Understand how education investment and policy correlate with literacy and gende
 - Gender parity improved significantly post-2010.
 - Spending positively correlates with literacy across ASEAN nations.
 
-Workbook: *[Link to Tableau Workbook to be uploaded in repo]*
+Workbook: *[Link to Tableau Workbook](https://public.tableau.com/app/profile/manasvi.surasani/viz/Indonesia_Education_Metrices/Dashboard1)*
 
 ---
 
-## Author
 
-**Manasvi Surasani**  
-MS Business Analytics, University of Maryland  
-LinkedIn: [Visit Profile](https://www.linkedin.com/in/your-link)
 
